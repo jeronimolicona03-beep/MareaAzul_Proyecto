@@ -18,7 +18,7 @@ const DEFECTO = {
   banner_activo: '0',
   banner_texto: '',
   secciones_visibles: 'problema,como,modulos,requisitos,cta',
-  tema_primario: '#1d4ed8',
+  tema_primario: '#1e6fb8',
   tema_acento: '#22d3ee',
   mantenimiento: '0',
   umbral_alerta_kg: '150',

@@ -1,19 +1,19 @@
 /* ============================================================
-   MAREA AZUL · Sistema de diseño "Azul Sostenible"
+   MAREA AZUL-VERDOSO · Sistema de diseño "Azul con tonos verdosos"
    ============================================================ */
 
 :root {
-  --verde-950: #04162d;
-  --verde-900: #08254a;
-  --verde-800: #0f3666;
-  --verde-700: #164b85;
-  --verde-600: #1d4ed8;
-  --verde-500: #2563eb;
+  --verde-950: #031a2f;
+  --verde-900: #062a4a;
+  --verde-800: #0b3b5f;
+  --verde-700: #115e8a;
+  --verde-600: #1e6fb8;
+  --verde-500: #3b82f6;
   --verde-400: #60a5fa;
   --verde-300: #93c5fd;
   --verde-200: #bfdbfe;
-  --verde-100: #dbeafe;
-  --verde-50: #eff6ff;
+  --verde-100: #e8f2ff;
+  --verde-50: #f3f8ff;
 
   --lima: #22d3ee;
   --lima-oscuro: #06b6d4;
@@ -22,20 +22,20 @@
   --rojo: #ef4444;
   --violeta: #8b5cf6;
 
-  --crema: #f7f9fc;
+  --crema: #f6f9fc;
   --blanco: #ffffff;
-  --texto: #0f1d3a;
-  --texto-suave: #4b5d8f;
-  --linea: #dbe7ff;
+  --texto: #10213f;
+  --texto-suave: #4f6b9f;
+  --linea: #d6e4ff;
 
   --radio-xl: 28px;
   --radio-lg: 20px;
   --radio-md: 14px;
 
-  --sombra-sm: 0 2px 10px rgba(15, 54, 102, 0.07);
-  --sombra-md: 0 10px 30px rgba(15, 54, 102, 0.12);
-  --sombra-lg: 0 24px 60px rgba(15, 54, 102, 0.18);
-  --sombra-verde: 0 12px 30px rgba(37, 99, 235, 0.35);
+  --sombra-sm: 0 2px 10px rgba(14, 65, 110, 0.07);
+  --sombra-md: 0 10px 30px rgba(14, 65, 110, 0.13);
+  --sombra-lg: 0 24px 60px rgba(14, 65, 110, 0.19);
+  --sombra-verde: 0 12px 30px rgba(59, 130, 246, 0.38);
 
   --fuente-titulo: 'Sora', system-ui, sans-serif;
   --fuente-cuerpo: 'Inter', system-ui, sans-serif;
